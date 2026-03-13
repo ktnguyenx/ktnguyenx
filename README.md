@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Lorraine, or Khanh, and I'm an international student from Vietnam! I'm currently a Computer Science major @ Haverford College. 
+My pronouns are she/her. 
+How to reach me: 
+- Email: ktnguyen@brynmawr.edu
+- LinkedIn: https://www.linkedin.com/in/ktnguyenx/
+- Discord: ktnguyenx
