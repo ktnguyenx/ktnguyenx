@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/readme-chat.svg" width="100%" alt="Animated README chat bubbles for Khanh Nguyen" />
+</p>
+
+## Hi there
 
 <!--
 **ktnguyenx/ktnguyenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lorraine, or Khanh, and I'm an international student from Vietnam! I'm currently a Computer Science major @ Haverford College. 
-My pronouns are she/her. 
-How to reach me: 
+My name is Lorraine, or Khanh, and I'm an international student from Vietnam studying Computer Science at Haverford College.
+
+I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and human.
+
+### Reach me
+
 - Email: ktnguyen@brynmawr.edu
-- LinkedIn: https://www.linkedin.com/in/ktnguyenx/
-- Discord: ktnguyenx
+- LinkedIn: [linkedin.com/in/ktnguyenx](https://www.linkedin.com/in/ktnguyenx/)
+- Discord: `ktnguyenx`
