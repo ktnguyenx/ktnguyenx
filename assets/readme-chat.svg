@@ -1,5 +1,5 @@
 <svg width="960" height="300" viewBox="0 0 960 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Animated iMessage-style README conversation for Khanh Nguyen</title>
+  <title id="title">Animated iMessage-style README conversation for Lorraine Nguyen</title>
   <desc id="desc">A minimal conversation with a typing indicator and three iMessage-inspired bubbles that animate in from alternating sides.</desc>
   <style>
     text {
@@ -148,12 +148,12 @@
   </g>
 
   <g id="bubble-1" class="bubble left">
-    <rect x="88" y="34" width="196" height="54" rx="27" fill="#E9E9EB"/>
-    <text x="114" y="68" class="dark">Hi, I'm Khanh.</text>
+    <rect x="88" y="34" width="204" height="54" rx="27" fill="#E9E9EB"/>
+    <text x="114" y="68" class="dark">Hi, I'm Lorraine.</text>
   </g>
 
   <g id="bubble-2" class="bubble right">
-    <rect x="492" y="106" width="380" height="84" rx="30" fill="#0A84FF"/>
+    <rect x="496" y="106" width="376" height="84" rx="30" fill="#0A84FF"/>
     <text x="520" y="141" class="light">
       <tspan x="520" dy="0">CS student at Haverford College,</tspan>
       <tspan x="520" dy="28">originally from Vietnam.</tspan>
@@ -161,7 +161,7 @@
   </g>
 
   <g id="bubble-3" class="bubble left">
-    <rect x="88" y="208" width="706" height="54" rx="27" fill="#E9E9EB"/>
+    <rect x="88" y="208" width="679" height="54" rx="27" fill="#E9E9EB"/>
     <text x="114" y="242" class="dark">I love creative programming and designing thoughtful interfaces.</text>
   </g>
 </svg>
