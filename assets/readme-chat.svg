@@ -160,21 +160,18 @@
   </g>
 
   <g id="bubble-1" class="bubble left">
-    <rect x="88" y="34" width="204" height="54" rx="27" fill="#E9E9EB"/>
-    <text x="114" y="68" class="dark">Hi, I'm Lorraine.</text>
+    <rect x="88" y="34" width="204" height="50" rx="25" fill="#E9E9EB"/>
+    <text x="114" y="66" class="dark">Hi, I'm Lorraine.</text>
   </g>
 
   <g id="bubble-2" class="bubble right">
-    <rect x="496" y="122" width="376" height="84" rx="30" fill="#509DF6"/>
-    <text x="520" y="157" class="light">
-      <tspan x="520" dy="0">CS student at Haverford College,</tspan>
-      <tspan x="520" dy="28">originally from Vietnam.</tspan>
-    </text>
-    <text x="848" y="228" text-anchor="end" class="status">Delivered</text>
+    <rect x="582" y="122" width="306" height="50" rx="25" fill="#509DF6"/>
+    <text x="606" y="154" class="light">CS Undegrad @ Haverford</text>
+    <text x="864" y="194" text-anchor="end" class="status">Delivered</text>
   </g>
 
   <g id="bubble-3" class="bubble left">
-    <rect x="88" y="280" width="679" height="54" rx="27" fill="#E9E9EB"/>
-    <text x="114" y="314" class="dark">I love creative programming and designing thoughtful interfaces.</text>
+    <rect x="88" y="280" width="679" height="50" rx="25" fill="#E9E9EB"/>
+    <text x="114" y="312" class="dark">I love creative programming and designing thoughtful interfaces.</text>
   </g>
 </svg>

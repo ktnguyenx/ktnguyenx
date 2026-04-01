@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lorraine, or Khanh, and I'm an international student from Vietnam studying Computer Science at Haverford College.
+My name is Lorraine, or Khanh, and I'm an undergraduate Computer Science student at Haverford College, with a minor in Statistics.
 
 I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and human.
 
