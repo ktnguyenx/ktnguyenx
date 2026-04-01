@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme-chat.svg" width="100%" alt="Animated README chat bubbles for Khanh Nguyen" />
+  <img src="./assets/readme-chat.svg" width="100%" alt="Animated iMessage-style README conversation for Khanh Nguyen" />
 </p>
 
 ## Hi there
