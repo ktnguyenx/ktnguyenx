@@ -148,7 +148,7 @@
   </g>
 
   <g id="bubble-1" class="bubble left">
-    <rect x="88" y="34" width="220" height="54" rx="27" fill="#E9E9EB"/>
+    <rect x="88" y="34" width="196" height="54" rx="27" fill="#E9E9EB"/>
     <text x="114" y="68" class="dark">Hi, I'm Khanh.</text>
   </g>
 
@@ -161,10 +161,7 @@
   </g>
 
   <g id="bubble-3" class="bubble left">
-    <rect x="88" y="208" width="586" height="84" rx="30" fill="#E9E9EB"/>
-    <text x="114" y="243" class="dark">
-      <tspan x="114" dy="0">I love creative programming and</tspan>
-      <tspan x="114" dy="28">designing thoughtful interfaces.</tspan>
-    </text>
+    <rect x="88" y="208" width="706" height="54" rx="27" fill="#E9E9EB"/>
+    <text x="114" y="242" class="dark">I love creative programming and designing thoughtful interfaces.</text>
   </g>
 </svg>

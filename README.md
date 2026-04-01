@@ -2,7 +2,7 @@
   <img src="./assets/readme-chat.svg" width="100%" alt="Animated iMessage-style README conversation for Khanh Nguyen" />
 </p>
 
-## Hi there
+## Hi there!
 
 <!--
 **ktnguyenx/ktnguyenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ My name is Lorraine, or Khanh, and I'm an international student from Vietnam stu
 
 I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and human.
 
-### Reach me
+### You can reach me at:
 
 - Email: ktnguyen@brynmawr.edu
 - LinkedIn: [linkedin.com/in/ktnguyenx](https://www.linkedin.com/in/ktnguyenx/)
