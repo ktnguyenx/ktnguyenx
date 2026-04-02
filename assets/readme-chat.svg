@@ -198,17 +198,17 @@
     </g>
   </g>
 
-  <g transform="translate(574 110)">
+  <g transform="translate(676 110)">
     <g id="bubble-2" class="bubble right">
-      <rect x="0" y="0" width="314" height="50" rx="25" fill="#509DF6"/>
-      <use href="#curl-right" x="298" y="30" width="19" height="20" fill="#509DF6"/>
-      <text x="24" y="32" class="light">CS Undergrad @ Haverford</text>
+      <rect x="0" y="0" width="212" height="50" rx="25" fill="#509DF6"/>
+      <use href="#curl-right" x="196" y="30" width="19" height="20" fill="#509DF6"/>
+      <text x="24" y="32" class="light">CS @ Bryn Mawr</text>
     </g>
   </g>
 
-  <g transform="translate(574 110)">
+  <g transform="translate(676 110)">
     <g id="status-2" class="status-mark right">
-      <text x="290" y="70" text-anchor="end" class="status">Delivered</text>
+      <text x="188" y="70" text-anchor="end" class="status">Delivered</text>
     </g>
   </g>
 

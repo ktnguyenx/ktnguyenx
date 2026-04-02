@@ -45,7 +45,7 @@ let leftBubble1 = BubbleConfig(
 	tailHeight: 20
 )
 
-let blueText = "CS Undergrad @ Haverford"
+let blueText = "CS @ Bryn Mawr"
 let blueWidth = bubbleWidth(text: blueText, leftPadding: 24, rightPadding: 24)
 let blueX = 888.0 - blueWidth
 let blueBubble = BubbleConfig(
