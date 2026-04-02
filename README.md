@@ -23,15 +23,9 @@ My name is Lorraine, or Khanh, and I'm an undergraduate student at Bryn Mawr Col
 
 I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and human.
 
-### Tech Icons
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,react,nodejs,nextjs,fastapi,git,github,docker,gcp,azure,firebase,latex,npm)](https://skillicons.dev)
-
 ### Tech Stack
 
-- Languages: Python, Java, C, JavaScript/TypeScript, HTML/CSS, SVG, R, Markdown
-- Frameworks & Libraries: React, Node.js, Next.js, FastAPI, Pandas, NumPy, spaCy, NLTK, JUnit
-- Tools & Platforms: Git, GitHub, Docker, Google Cloud, Azure, Firebase, LaTeX, npm, esbuild, Obsidian API
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,react,nodejs,nextjs,fastapi,git,github,docker,gcp,azure,firebase,latex,npm)](https://skillicons.dev)
 
 ### You can reach me at:
 

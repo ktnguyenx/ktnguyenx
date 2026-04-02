@@ -18,7 +18,7 @@
 
     .status {
       fill: #7d7d82;
-      font-size: 16px;
+      font-size: 14px;
       font-weight: 500;
     }
 
@@ -208,7 +208,7 @@
 
   <g transform="translate(676 110)">
     <g id="status-2" class="status-mark right">
-      <text x="188" y="70" text-anchor="end" class="status">Delivered</text>
+      <text x="188" y="69" text-anchor="end" class="status">Delivered</text>
     </g>
   </g>
 

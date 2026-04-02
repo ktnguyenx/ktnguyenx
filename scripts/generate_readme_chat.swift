@@ -110,7 +110,7 @@ let svg = """
 
     .status {
       fill: #7d7d82;
-      font-size: 16px;
+      font-size: 14px;
       font-weight: 500;
     }
 
@@ -300,7 +300,7 @@ let svg = """
 
   <g transform="translate(\(Int(blueBubble.x)) \(Int(blueBubble.y)))">
     <g id="status-2" class="status-mark right">
-      <text x="\(Int(blueWidth - 24))" y="70" text-anchor="end" class="status">Delivered</text>
+      <text x="\(Int(blueWidth - 24))" y="69" text-anchor="end" class="status">Delivered</text>
     </g>
   </g>
 
