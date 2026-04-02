@@ -1,6 +1,98 @@
+import AppKit
+import Foundation
+
+struct BubbleConfig {
+	let text: String
+	let x: Double
+	let y: Double
+	let leftPadding: Double
+	let rightPadding: Double
+	let fill: String
+	let textClass: String
+	let tailSymbol: String?
+	let tailX: Double
+	let tailY: Double
+	let tailWidth: Double
+	let tailHeight: Double
+}
+
+let title = "Animated iMessage-style README conversation for Lorraine Nguyen"
+let desc = "A minimal conversation with a typing indicator and three iMessage-inspired bubbles that animate in from alternating sides."
+
+let font = NSFont.systemFont(ofSize: 22, weight: .medium)
+let attrs: [NSAttributedString.Key: Any] = [.font: font]
+
+func measure(_ text: String) -> Double {
+	Double((text as NSString).size(withAttributes: attrs).width)
+}
+
+func bubbleWidth(text: String, leftPadding: Double, rightPadding: Double) -> Double {
+	ceil(measure(text) + leftPadding + rightPadding)
+}
+
+let leftBubble1 = BubbleConfig(
+	text: "Hi, I'm Lorraine!",
+	x: 88,
+	y: 34,
+	leftPadding: 26,
+	rightPadding: 26,
+	fill: "#E9E9EB",
+	textClass: "dark",
+	tailSymbol: "curl-left",
+	tailX: -3,
+	tailY: 30,
+	tailWidth: 19,
+	tailHeight: 20
+)
+
+let blueText = "CS Undergrad @ Haverford"
+let blueWidth = bubbleWidth(text: blueText, leftPadding: 24, rightPadding: 24)
+let blueX = 888.0 - blueWidth
+let blueBubble = BubbleConfig(
+	text: blueText,
+	x: blueX,
+	y: 110,
+	leftPadding: 24,
+	rightPadding: 24,
+	fill: "#509DF6",
+	textClass: "light",
+	tailSymbol: "curl-right",
+	tailX: blueWidth - 16,
+	tailY: 30,
+	tailWidth: 19,
+	tailHeight: 20
+)
+
+let leftBubble3 = BubbleConfig(
+	text: "I love creative programming and designing thoughtful interfaces <3",
+	x: 88,
+	y: 220,
+	leftPadding: 26,
+	rightPadding: 26,
+	fill: "#E9E9EB",
+	textClass: "dark",
+	tailSymbol: "curl-left",
+	tailX: -3,
+	tailY: 30,
+	tailWidth: 19,
+	tailHeight: 20
+)
+
+let bubble1Width = bubbleWidth(
+	text: leftBubble1.text,
+	leftPadding: leftBubble1.leftPadding,
+	rightPadding: leftBubble1.rightPadding
+)
+let bubble3Width = bubbleWidth(
+	text: leftBubble3.text,
+	leftPadding: leftBubble3.leftPadding,
+	rightPadding: leftBubble3.rightPadding
+)
+
+let svg = """
 <svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Animated iMessage-style README conversation for Lorraine Nguyen</title>
-  <desc id="desc">A minimal conversation with a typing indicator and three iMessage-inspired bubbles that animate in from alternating sides.</desc>
+  <title id="title">\(title)</title>
+  <desc id="desc">\(desc)</desc>
   <style>
     text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -190,33 +282,38 @@
     </g>
   </g>
 
-  <g transform="translate(88 34)">
+  <g transform="translate(\(Int(leftBubble1.x)) \(Int(leftBubble1.y)))">
     <g id="bubble-1" class="bubble left">
-      <rect x="0" y="0" width="205" height="50" rx="25" fill="#E9E9EB"/>
-      <use href="#curl-left" x="-3" y="30" width="19" height="20" fill="#E9E9EB"/>
-      <text x="26" y="32" class="dark">Hi, I'm Lorraine!</text>
+      <rect x="0" y="0" width="\(Int(bubble1Width))" height="50" rx="25" fill="\(leftBubble1.fill)"/>
+      <use href="#\(leftBubble1.tailSymbol!)" x="\(Int(leftBubble1.tailX))" y="\(Int(leftBubble1.tailY))" width="\(Int(leftBubble1.tailWidth))" height="\(Int(leftBubble1.tailHeight))" fill="\(leftBubble1.fill)"/>
+      <text x="\(Int(leftBubble1.leftPadding))" y="32" class="\(leftBubble1.textClass)">\(leftBubble1.text)</text>
     </g>
   </g>
 
-  <g transform="translate(574 110)">
+  <g transform="translate(\(Int(blueBubble.x)) \(Int(blueBubble.y)))">
     <g id="bubble-2" class="bubble right">
-      <rect x="0" y="0" width="314" height="50" rx="25" fill="#509DF6"/>
-      <use href="#curl-right" x="298" y="30" width="19" height="20" fill="#509DF6"/>
-      <text x="24" y="32" class="light">CS Undergrad @ Haverford</text>
+      <rect x="0" y="0" width="\(Int(blueWidth))" height="50" rx="25" fill="\(blueBubble.fill)"/>
+      <use href="#\(blueBubble.tailSymbol!)" x="\(Int(blueBubble.tailX))" y="\(Int(blueBubble.tailY))" width="\(Int(blueBubble.tailWidth))" height="\(Int(blueBubble.tailHeight))" fill="\(blueBubble.fill)"/>
+      <text x="\(Int(blueBubble.leftPadding))" y="32" class="\(blueBubble.textClass)">\(blueBubble.text)</text>
     </g>
   </g>
 
-  <g transform="translate(574 110)">
+  <g transform="translate(\(Int(blueBubble.x)) \(Int(blueBubble.y)))">
     <g id="status-2" class="status-mark right">
-      <text x="290" y="70" text-anchor="end" class="status">Delivered</text>
+      <text x="\(Int(blueWidth - 24))" y="70" text-anchor="end" class="status">Delivered</text>
     </g>
   </g>
 
-  <g transform="translate(88 220)">
+  <g transform="translate(\(Int(leftBubble3.x)) \(Int(leftBubble3.y)))">
     <g id="bubble-3" class="bubble left">
-      <rect x="0" y="0" width="706" height="50" rx="25" fill="#E9E9EB"/>
-      <use href="#curl-left" x="-3" y="30" width="19" height="20" fill="#E9E9EB"/>
-      <text x="26" y="32" class="dark">I love creative programming and designing thoughtful interfaces &lt;3</text>
+      <rect x="0" y="0" width="\(Int(bubble3Width))" height="50" rx="25" fill="\(leftBubble3.fill)"/>
+      <use href="#\(leftBubble3.tailSymbol!)" x="\(Int(leftBubble3.tailX))" y="\(Int(leftBubble3.tailY))" width="\(Int(leftBubble3.tailWidth))" height="\(Int(leftBubble3.tailHeight))" fill="\(leftBubble3.fill)"/>
+      <text x="\(Int(leftBubble3.leftPadding))" y="32" class="\(leftBubble3.textClass)">I love creative programming and designing thoughtful interfaces &lt;3</text>
     </g>
   </g>
 </svg>
+"""
+
+let outputURL = URL(fileURLWithPath: "assets/readme-chat.svg")
+try svg.write(to: outputURL, atomically: true, encoding: .utf8)
+print("Wrote \(outputURL.path)")
