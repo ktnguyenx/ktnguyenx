@@ -2,7 +2,7 @@
   <img src="./assets/readme-chat.svg" width="100%" alt="Animated iMessage-style README conversation for Khanh Nguyen" />
 </p>
 
-## Hi there!
+## Hi there :)
 
 <!--
 **ktnguyenx/ktnguyenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,52 @@ Here are some ideas to get you started:
 
 My name is Lorraine, or Khanh, and I'm an undergraduate student at Bryn Mawr College, pursuing Computer Science through the Bi-College consortium with Haverford, with a minor in Statistics.
 
-I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and human.
+I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and intuitive.
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,react,nodejs,nextjs,fastapi,git,github,docker,gcp,azure,firebase,latex,npm)](https://skillicons.dev)
+#### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="Markdown" />
+  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="40" alt="SVG" />
+</p>
+
+#### Frameworks & Libraries
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/spacy/09A3D5" height="40" alt="spaCy" />
+  <img src="https://cdn.simpleicons.org/junit5/25A162" height="40" alt="JUnit" />
+</p>
+
+#### Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
+  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="40" alt="Obsidian API" />
+  <img src="https://cdn.simpleicons.org/esbuild/FFCF00" height="40" alt="esbuild" />
+</p>
 
 ### You can reach me at:
 
