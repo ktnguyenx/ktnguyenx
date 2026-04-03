@@ -183,7 +183,7 @@
   <g transform="translate(88 34)">
     <g id="typing" class="typing left">
       <rect x="0" y="0" width="92" height="42" rx="21" fill="#E9E9EB"/>
-      <use href="#curl-left" x="-3" y="22" width="16" height="17" fill="#E9E9EB"/>
+      <use href="#curl-left" x="-4" y="22" width="16" height="17" fill="#E9E9EB"/>
       <circle id="typing-dot-1" cx="29" cy="21" r="4.5" fill="#7D7D82"/>
       <circle id="typing-dot-2" cx="46" cy="21" r="4.5" fill="#7D7D82"/>
       <circle id="typing-dot-3" cx="63" cy="21" r="4.5" fill="#7D7D82"/>
