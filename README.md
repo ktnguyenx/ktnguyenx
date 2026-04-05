@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My name is Lorraine, or Khanh, and I'm an undergraduate student at Bryn Mawr College, pursuing Computer Science through the Bi-College consortium with Haverford, with a minor in Statistics.
 
-I care about thoughtful interfaces, creative coding, and building projects that feel warm, clear, and intuitive.
+I care about thoughtful interfaces, creative programming, and building projects that feel warm, clear, and intuitive!
 
 ### Tech Stack
 
