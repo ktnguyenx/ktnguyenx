@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 
 My name is Lorraine, or Khanh, and I'm an undergraduate student at Bryn Mawr College, pursuing Computer Science through the Bi-College consortium with Haverford, with a minor in Statistics.
 
-I care about thoughtful interfaces, creative programming, and building projects that feel warm, clear, and intuitive!
+I enjoy building tools and experiences that are both technically thoughtful and easy to use! Lately, I’ve been interested in projects at the intersection of design, programming, and human behavior.
+
+### I'm currently working on
+
+- preparing for research on algorithmic art and interface design
+- building small C# projects to explore game development (Unity)
 
 ### Tech Stack
 
@@ -70,7 +75,7 @@ I care about thoughtful interfaces, creative programming, and building projects 
   <img src="https://cdn.simpleicons.org/esbuild/FFCF00" height="40" alt="esbuild" />
 </p>
 
-### You can reach me at:
+### You can reach me at
 
 - Email: ktnguyen@brynmawr.edu
 - LinkedIn: [linkedin.com/in/ktnguyenx](https://www.linkedin.com/in/ktnguyenx/)
