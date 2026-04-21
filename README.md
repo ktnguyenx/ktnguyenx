@@ -42,7 +42,11 @@ I enjoy building tools and experiences that are both technically thoughtful and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
-  <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="Markdown" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/markdown/000000" />
+    <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="Markdown" />
+  </picture>
   <img src="https://cdn.simpleicons.org/svg/FFB13B" height="40" alt="SVG" />
 </p>
 
@@ -63,7 +67,11 @@ I enjoy building tools and experiences that are both technically thoughtful and 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+    <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
