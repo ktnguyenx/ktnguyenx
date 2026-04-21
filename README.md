@@ -78,6 +78,7 @@ I enjoy building tools and experiences that are both technically thoughtful and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" />
+  <img src="https://cdn.simpleicons.org/overleaf/47A141" height="40" alt="Overleaf" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
   <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="40" alt="Obsidian API" />
   <img src="https://cdn.simpleicons.org/esbuild/FFCF00" height="40" alt="esbuild" />
