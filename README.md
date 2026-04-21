@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme-chat.svg" width="100%" alt="Animated iMessage-style README conversation for Khanh Nguyen" />
+  <img src="./assets/readme-chat.svg" width="100%" alt="Animated iMessage-style README conversation for Lorraine Nguyen" />
 </p>
 
 ## Hi there :)
@@ -84,7 +84,7 @@ I enjoy building tools and experiences that are both technically thoughtful and 
   <img src="https://cdn.simpleicons.org/esbuild/FFCF00" height="40" alt="esbuild" />
 </p>
 
-### You can reach me at
+### You can reach me at...
 
 - Email: ktnguyen@brynmawr.edu
 - LinkedIn: [linkedin.com/in/ktnguyenx](https://www.linkedin.com/in/ktnguyenx/)
