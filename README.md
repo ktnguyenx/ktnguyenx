@@ -23,7 +23,7 @@ My name is Lorraine, or Khanh, and I'm an undergraduate student at Bryn Mawr Col
 
 I enjoy building tools and experiences that are both technically thoughtful and easy to use! Lately, I’ve been interested in projects at the intersection of design, programming, and human behavior.
 
-### I'm currently working on
+### I'm currently...
 
 - preparing for research on algorithmic art and interface design
 - building small C# projects to explore game development (Unity)
