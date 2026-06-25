@@ -25,7 +25,7 @@ I enjoy building tools and experiences that are both technically thoughtful and 
 
 ### I'm currently...
 
-- preparing for research on algorithmic art and interface design
+- doing summer research on algorithmic art and interface design
 - building small C# projects to explore game development (Unity)
 
 ### Tech Stack
